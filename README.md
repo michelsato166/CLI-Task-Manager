@@ -1,2 +1,2 @@
 # CLI-Task-Manager
-Python Command Line Task Manager
+Python command line task manager
